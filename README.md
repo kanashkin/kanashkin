@@ -19,10 +19,11 @@ ____
 ### ⚙️ GitHub статистика:
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=gotham" alt="abhisheknaiidu">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=onedark)
+
 </div>
 
 <div align="left">
     <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanashkin&layout=compact&theme=vision-friendly-dark">
 </div>
-
