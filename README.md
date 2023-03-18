@@ -12,7 +12,7 @@ ___
 
 ### 📚 Технологии для освоения:
 
-![My Skills](https://skillicons.dev/icons?i=vue,ts)
+![My Skills](https://skillicons.dev/icons?i=vue,ts,wordpress)
 
 ____
 
