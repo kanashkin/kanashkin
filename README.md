@@ -23,5 +23,6 @@ Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do fr
 
 ## ⚙️ GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=dark) <br>
-![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanashkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=react) <br>
+![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanashkin&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
