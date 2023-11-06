@@ -1,7 +1,7 @@
 ## ☘️ About Me:
 Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do freelance projects. I love learning new technologies and improving my skills!
 
-#### ✉️ Connect: <br>
+#### ✉️ Connect:
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/adkanashkin)
 
 ## 🛠️ Tech Stack:
@@ -23,5 +23,5 @@ Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do fr
 
 ## ⚙️ GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=dark) <br>
 ![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanashkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
