@@ -2,7 +2,7 @@
 Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do freelance projects. I love learning new technologies and improving my skills!
 
 #### ✉️ Connect:
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/adkanashkin)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/kadweb)
 
 ## 🛠️ Tech Stack:
 
