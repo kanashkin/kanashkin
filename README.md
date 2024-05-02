@@ -1,10 +1,10 @@
-## ☘️ About Me:
-Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do freelance projects. I love learning new technologies and improving my skills!
+## ☘️ Обо мне:
+Приветствую, меня зовут Александр! Я веб-разработчик, работающий на фрилансе. Люблю получать новый опыт и совершенствовать свои навыки.
 
-#### ✉️ Connect: <br>
+### ✉️ Связь:
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/adkanashkin)
 
-## 🛠️ Tech Stack:
+## 🛠️ Навыки:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,10 +19,3 @@ Hi, I'm Alexander Kanashkin, web Developer! I work in a digital agency and do fr
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f05030.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-## ⚙️ GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=dark)
-![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanashkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
